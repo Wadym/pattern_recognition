@@ -1,0 +1,1 @@
+project for looking for patterns in images
